@@ -19,9 +19,10 @@
 <br/>
 <p>
 
+
 - 🔭 Currently working on [DAMaLOS]()
 - 🌱 Mastering TypeScript
-- 💬 Ask me about SharePoint, .NET, Power Platform, Agentic AI and Blockchain.
+- 💬 Ask me about SharePoint, .NET, Power Platform, System Design and Blockchain.
 - 📫 How to reach me: [namfrans@gmail.com](namfrans@gmail.com)
 
 </p>
