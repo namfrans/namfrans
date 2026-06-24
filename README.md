@@ -19,9 +19,9 @@
 <br/>
 <p>
 
-- 🔭 I’m currently working on [myphonechain](https://github.com/notepad-io)
-- 🌱 Currently mastering JavaScript
-- 💬 Ask me about SharePoint, .NET, Mobile Technologies and Blockchain.
+- 🔭 Currently working on [DAMaLOS]()
+- 🌱 Mastering TypeScript
+- 💬 Ask me about SharePoint, .NET, Power Platform, Agentic AI and Blockchain.
 - 📫 How to reach me: [namfrans@gmail.com](namfrans@gmail.com)
 
 </p>
