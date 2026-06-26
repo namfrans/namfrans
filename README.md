@@ -20,7 +20,7 @@
 <p>
 
 
-- 🔭 Currently working on [something...]()
+- 🔭 Currently working on [something fun...]()
 - 🌱 Mastering TypeScript
 - 💬 Ask me about SharePoint, .NET, Power Platform, System Design and Blockchain.
 - 📫 How to reach me: [namfrans@gmail.com](namfrans@gmail.com)
